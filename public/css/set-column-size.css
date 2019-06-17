@@ -1,0 +1,12 @@
+.maxw200h300{
+	word-break: break-all;
+	max-width:200px !important;
+	max-height:300px;
+	overflow-y : auto;
+}
+th,td{
+	
+	min-width: 100px !important;
+	
+
+}

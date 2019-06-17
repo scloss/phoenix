@@ -1,0 +1,15 @@
+textarea:-moz-read-only,input:-moz-read-only { /* For Firefox */
+    border: 1px solid #DEA0A0 !important;
+}
+
+textarea:read-only,input:read-only { 
+    border: 1px solid #DEA0A0 !important;
+}
+
+textarea:-moz-disabled,input:-moz-disabled { /* For Firefox */
+    border: 1px solid #DEA0A0 !important;
+}
+
+textarea:disabled,input:disabled { 
+    border: 1px solid #DEA0A0 !important;
+}

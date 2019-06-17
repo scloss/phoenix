@@ -1,0 +1,293 @@
+#ticket_row{
+	
+}
+body{
+
+}
+/*td{
+	word-break: break-all;
+}*/
+text-whited{
+	color:#fff;
+}
+#previous_resolution_table td{
+	border: 1px solid grey !important;
+	padding : 5px;
+}
+#previous_resolution_table{
+	border: 1px solid grey !important;
+	border-collapse:collapse !important;; 
+}
+#ticket_table_view {
+	border-collapse:separate; 
+	border-spacing: 0px 7px;
+	/*border:1px solid grey;*/
+}
+#ticket_table_view td{
+	vertical-align:middle;
+	text-align:center;
+	height:80px;
+	font-size:13px;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+}
+#ticket_table_view th:nth-child(1){	
+	font-size:14px;
+	border-left:1px solid grey;
+}
+#ticket_table_view th:nth-child(2){
+
+}
+#ticket_table_view th:last-child{
+	border-right:1px solid grey;
+}
+#ticket_table_view td:nth-child(1){
+	border-left:1px solid grey;
+	font-size: 17px;
+
+}
+#ticket_table_view td:last-child{
+	border-right:1px solid grey;
+}
+
+#ticket_table_view td:nth-child(3),#ticket_table_view td:nth-child(4) {
+	text-align:left;
+}
+#ticket_table_view th{
+	background:rgba(0, 0, 0);
+	text-align:center;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+}
+
+#ticket_table_view tr:nth-child(even) {
+	background: #233454;
+
+}
+#ticket_table_view tr:nth-child(odd) {
+	background: #1a2538;
+
+}
+#ticket_table_view tr{
+	border: solid thin;
+}
+#ticket_table_view td:hover{
+	background-color: #6182B0 !important;
+}
+#myMenu a
+{
+	color:#000 !important;
+}
+#edit_icon{
+	font-size:25px;
+}
+.highlighted {
+    background-color: #6182B0 !important;
+}
+#tt_form_div{
+
+	margin-top:3%;
+}
+
+
+/* The CSS */
+select {
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#000;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+
+/* Targetting Webkit browsers only. FF will show the dropdown arrow with so much padding. */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    select {padding-right:18px}
+}
+
+label {position:relative}
+label:after {
+    content:'<>';
+    font:11px "Consolas", monospace;
+    color:#000;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+    right:8px; top:2px;
+    padding:0 0 2px;
+    border-bottom:1px solid #ddd;
+    position:absolute;
+    pointer-events:none;
+}
+label:before {
+    content:'';
+    right:6px; top:0px;
+    width:20px; height:20px;
+    background:#f8f8f8;
+    position:absolute;
+    pointer-events:none;
+    display:block;
+}
+
+#incident_div{
+	/*border:1px solid red;*/
+}
+#incident_div a{
+	color:#fff;
+}
+#incident_div table{
+	/*border:1px solid red;*/
+	width:100%;
+}
+
+
+#incident_table td{
+	vertical-align:middle;
+	text-align:center;
+	height:80px;
+	font-size:13px;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+	cursor:pointer;
+}
+#incident_table th:nth-child(1){	
+	font-size:14px;
+	border-left:1px solid grey;
+}
+#incident_table th:nth-child(2){
+
+}
+#incident_table th:last-child{
+	border-right:1px solid grey;
+}
+#incident_table td:nth-child(1){
+	border-left:1px solid grey;
+	font-size: 14px;
+
+}
+#incident_table td:last-child{
+	border-right:1px solid grey;
+}
+
+#incident_table th{
+	background:rgba(0, 0, 0);
+	text-align:center;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+}
+
+#incident_table tr:nth-child(even) {
+	background: #233454;
+
+}
+#incident_table tr:nth-child(odd) {
+	background: #1a2538;
+
+}
+#incident_table tr{
+	border: solid thin;
+}
+
+
+
+
+
+
+
+
+#incident_inner_table {
+	/*border-collapse:separate; 
+	border-spacing: 0px 7px;*/
+	/*border:1px solid grey;*/
+}
+#incident_inner_table td{
+	vertical-align:middle;
+	text-align:center;
+	height:80px;
+	font-size:13px;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+	background: #1a2538;
+}
+#incident_inner_table th:nth-child(1){	
+	font-size:13px;
+	border-left:1px solid grey;
+}
+#incident_inner_table th:nth-child(2){
+
+}
+#incident_inner_table th:last-child{
+	border-right:1px solid grey;
+}
+#incident_inner_table td:nth-child(1){
+	border-left:1px solid grey;
+	font-size: 14px;
+
+}
+#incident_inner_table td:last-child{
+	border-right:1px solid grey;
+}
+
+#incident_inner_table th{
+	background:rgba(0, 0, 0);
+	text-align:center;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+}
+/*
+#incident_inner_table tr:nth-child(even) {
+	background: #233454;
+
+}
+#incident_inner_table tr:nth-child(odd) {
+	background: #1a2538;
+
+}*/
+#incident_inner_table tr{
+	border: solid thin;
+}
+
+.related_tickets_10 td{
+   display:none;
+    /* height: 0px; */
+}
+
+/*#ticket_table_view td:hover{
+	background-color: #6182B0 !important;
+}*/
+
+#incident_main_div{
+	margin-top:3%;
+}
+
+#incident_search_table{
+	width:100%;
+}
+#incident_search_table td{
+	text-align:center;
+	
+}
+#incident_search_table tr{
+	border-collapse:separate; 
+	border-spacing: 0px 10px;
+}
+.addtocart{
+	font-size:25px !important;
+}
+
+#select_style{
+	max-width:182px !important;
+	min-width: 55px !important;
+}

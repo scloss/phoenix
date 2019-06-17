@@ -1,0 +1,123 @@
+ticket_id,fault_id,task_id,task_name,task_description,task_status,task_assigned_dept,subcenter,task_start_time,task_end_time,task_start_time_db,task_end_time_db,task_responsible,task_resolver,task_closer_id,task_initiator_dept
+113455,158250,474821,Escalated,"Site is still down. What type of power problem, please share details information ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 12:09:53",,"2019-04-11 12:10:05",,NA,,,NOC
+113501,158307,475201,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:00:59",,"2019-04-11 17:01:09",,NA,,,NOC
+113582,158402,475202,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:01:26",,"2019-04-11 17:01:35",,NA,,,NOC
+115348,160652,475203,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:02:09",,"2019-04-11 17:02:22",,NA,,,NOC
+115356,160663,475204,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:02:43",,"2019-04-11 17:02:51",,NA,,,NOC
+115399,160718,475207,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:03:46",,"2019-04-11 17:03:54",,NA,,,NOC
+136958,188035,475211,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:04:55",,"2019-04-11 17:05:06",,NA,,,NOC
+136961,188038,475212,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:05:19",,"2019-04-11 17:05:29",,NA,,,NOC
+144152,197098,475219,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:08:14",,"2019-04-11 17:08:23",,NA,,,NOC
+144154,197100,475221,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:08:38",,"2019-04-11 17:08:49",,NA,,,NOC
+144156,197102,475225,Escalated,"What type of power problem ,Please details ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:09:45",,"2019-04-11 17:10:32",,NA,,,NOC
+144159,197105,475226,Escalated,"Site is still down",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:11:18",,"2019-04-11 17:11:44",,NA,,,NOC
+144167,197113,475231,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:13:41",,"2019-04-11 17:13:54",,NA,,,NOC
+144165,197111,475234,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:14:51",,"2019-04-11 17:15:06",,NA,,,NOC
+144160,197106,475235,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:15:26",,"2019-04-11 17:15:35",,NA,,,NOC
+146530,200224,475238,Escalated,"What type of power problem?, please details",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:17:35",,"2019-04-11 17:17:47",,NA,,,NOC
+146531,200225,475241,Escalated,"Site is still down. What type of power problem? Please details",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:18:03",,"2019-04-11 17:18:37",,NA,,,NOC
+146610,200321,475244,Escalated,"Site is still down. What type of power problem? Please details",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:19:14",,"2019-04-11 17:19:23",,NA,,,NOC
+146630,200343,475249,Escalated,"Site is still down. What type of power problem? Please details",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:21:27",,"2019-04-11 17:21:46",,NA,,,NOC
+146631,200344,475250,Escalated,"Site is still down. What type of power problem? Please details",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:21:56",,"2019-04-11 17:22:22",,NA,,,NOC
+146632,200345,475253,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:23:10",,"2019-04-11 17:23:19",,NA,,,NOC
+146613,200324,475261,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:27:38",,"2019-04-11 17:27:52",,NA,,,NOC
+146616,200327,475262,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:28:09",,"2019-04-11 17:28:19",,NA,,,NOC
+146617,200328,475264,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:28:35",,"2019-04-11 17:28:47",,NA,,,NOC
+146705,200421,475266,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:30:58",,"2019-04-11 17:31:07",,NA,,,NOC
+146642,200355,475268,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:31:21",,"2019-04-11 17:31:30",,NA,,,NOC
+146627,200340,475269,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:31:47",,"2019-04-11 17:31:57",,NA,,,NOC
+146622,200333,475272,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:32:32",,"2019-04-11 17:32:40",,NA,,,NOC
+146621,200332,475274,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:32:52",,"2019-04-11 17:33:00",,NA,,,NOC
+146619,200330,475298,Escalated," ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-11 17:46:39",,"2019-04-11 17:46:49",,NA,,,NOC
+148841,202983,476120,Escalated,"     ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-12 10:37:02",,"2019-04-12 10:37:13",,NA,,,NOC
+150303,204890,480630,Escalated,FP_CHARJASORDI_UN1HR01,escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-15 13:24:13",,"2019-04-15 13:24:45",,NA,,,NOC
+150304,204891,480634,Escalated,FP_HAMIRDI_UN1HR01,escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-15 13:26:12",,"2019-04-15 13:26:51",,NA,,,NOC
+152100,207156,485862,Escalated,"FP_BHANGA_UP1HR01 to FP_CHUMORDI_UN1HR01",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-18 14:08:31",,"2019-04-18 14:08:54",,NA,,,NOC
+152071,207117,485930,Escalated,"MA_SHALIKHA_UP1HR01 to  -MA_SHATAKHALI_UN1HR01",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-18 14:37:08",,"2019-04-18 14:37:12",,NA,,,NOC
+144052,196993,486993,Escalated,BG_KODALIA_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 08:43:20",,"2019-04-19 08:43:22",,NA,,,NOC
+146580,200286,487041,Escalated,SK_KHALILNAGAR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 09:38:04",,"2019-04-19 09:38:10",,NA,,,NOC
+146570,200272,487061,Escalated,SK_KULLA_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 09:53:27",,"2019-04-19 09:53:28",,NA,,,NOC
+146587,200295,487084,Escalated,SK_DHANDIA_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 10:04:01",,"2019-04-19 10:04:02",,NA,,,NOC
+144162,197108,487158,Escalated,FP_PANCHURIA_UN1HR01,escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-19 10:46:07",,"2019-04-19 10:46:09",,NA,,,NOC
+144157,197103,487161,Escalated,FP_BANA_UN1HR01,escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-19 10:47:51",,"2019-04-19 10:47:52",,NA,,,NOC
+144099,197040,487233,Escalated,GG_BAHUGRAM_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 11:34:51",,"2019-04-19 11:34:52",,NA,,,NOC
+144095,197036,487237,Escalated,GG_RAJPAT_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 11:36:03",,"2019-04-19 11:36:08",,NA,,,NOC
+144090,197031,487241,Escalated,GG_BANSHBARIA_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 11:37:37",,"2019-04-19 11:37:39",,NA,,,NOC
+144080,197021,487246,Escalated,GG_MAHESHPUR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 11:40:36",,"2019-04-19 11:40:38",,NA,,,NOC
+144076,197017,487285,Escalated,GG_GOBINDAPUR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 12:01:27",,"2019-04-19 12:01:30",,NA,,,NOC
+144074,197015,487288,Escalated,GG_MAMUDPUR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 12:02:53",,"2019-04-19 12:02:55",,NA,,,NOC
+144065,197006,487296,Escalated,GG_KHANDARPAR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 12:14:17",,"2019-04-19 12:14:20",,NA,,,NOC
+144060,197001,487306,Escalated,GG_NANIKSHIR_UN1HR01,escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-19 12:17:00",,"2019-04-19 12:17:02",,NA,,,NOC
+156742,213195,500300,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-28 10:51:04",,"2019-04-28 10:51:11",,NA,,,NOC
+156743,213196,500302,Escalated,"outage  at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-28 10:52:33",,"2019-04-28 10:52:41",,NA,,,NOC
+156745,213198,500304,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-28 10:53:50",,"2019-04-28 10:53:57",,NA,,,NOC
+156752,213206,500332,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-04-28 11:07:51",,"2019-04-28 11:07:59",,NA,,,NOC
+156993,213508,500939,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-04-28 18:32:13",,"2019-04-28 18:32:21",,NA,,,NOC
+156989,213504,509187,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-04 10:01:06",,"2019-05-04 10:01:22",,NA,,,NOC
+158939,215956,511399,Escalated,"Mention site is still down. Project team already handover to RIO. Please solved this issue ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-05 08:19:54",,"2019-05-05 08:21:31",,NA,,,NOC
+160717,218193,511587,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-05 11:12:54",,"2019-05-05 11:12:57",,NA,,,NOC
+156984,213497,514820,Escalated,"Again site is down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-07 15:41:20",,"2019-05-07 15:41:38",,NA,,,NOC
+161788,219524,514841,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 15:59:24",,"2019-05-07 15:59:29",,NA,,,NOC
+161790,219526,514844,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:00:53",,"2019-05-07 16:00:59",,NA,,,NOC
+146652,200365,514849,Escalated,"Site is still down, what type of power problem? Please share details ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-07 16:02:45",,"2019-05-07 16:04:26",,NA,,,NOC
+161794,219530,514852,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:06:26",,"2019-05-07 16:06:31",,NA,,,NOC
+161796,219532,514855,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:08:29",,"2019-05-07 16:08:34",,NA,,,NOC
+161798,219534,514859,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:11:24",,"2019-05-07 16:11:29",,NA,,,NOC
+161799,219535,514860,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:12:38",,"2019-05-07 16:12:44",,NA,,,NOC
+161800,219536,514861,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-07 16:14:01",,"2019-05-07 16:14:06",,NA,,,NOC
+109187,152473,516329,Escalated,"Site is still down ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-08 19:19:55",,"2019-05-08 19:20:40",,NA,,,NOC
+163747,221949,520550,Escalated,"Outage at client end   ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-12 11:30:19",,"2019-05-12 11:30:23",,NA,,,NOC
+163748,221950,520553,Escalated,"Outage at client end   ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-12 11:31:39",,"2019-05-12 11:31:43",,NA,,,NOC
+163750,221952,520557,Escalated,"Outage at client end   ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-12 11:33:07",,"2019-05-12 11:33:11",,NA,,,NOC
+163753,221956,520564,Escalated,"Outage at client end   ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-12 11:35:05",,"2019-05-12 11:35:11",,NA,,,NOC
+146699,200415,523821,Escalated,"Site is still down, Please take care ",escalated,"Regional Implementation & Operations 3",Jessore,"2019-05-14 12:22:10",,"2019-05-14 12:22:33",,NA,,,NOC
+166028,224676,526935,Escalated,"outage at client end   ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 12:50:13",,"2019-05-16 12:50:19",,NA,,,NOC
+166043,224691,526969,Escalated,"outage at client end",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 13:16:13",,"2019-05-16 13:16:18",,NA,,,NOC
+166045,224693,526971,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 13:17:38",,"2019-05-16 13:17:43",,NA,,,NOC
+166046,224694,526972,Escalated,"outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 13:19:27",,"2019-05-16 13:19:32",,NA,,,NOC
+166061,224712,527016,Escalated,"outage at client  end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 13:54:00",,"2019-05-16 13:54:05",,NA,,,NOC
+166064,224715,527019,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 13:55:34",,"2019-05-16 13:55:39",,NA,,,NOC
+166116,224776,527131,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 14:51:13",,"2019-05-16 14:51:19",,NA,,,NOC
+166120,224780,527140,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 14:53:53",,"2019-05-16 14:54:16",,NA,,,NOC
+166123,224783,527147,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-16 14:55:50",,"2019-05-16 14:55:55",,NA,,,NOC
+167947,226999,532403,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-19 17:20:54",,"2019-05-19 17:20:57",,NA,,,NOC
+167953,227008,532431,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-19 17:42:37",,"2019-05-19 17:43:49",,NA,,,NOC
+168035,227117,532726,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-19 22:27:33",,"2019-05-19 22:27:36",,NA,,,NOC
+168038,227120,532734,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-19 22:30:04",,"2019-05-19 22:30:06",,NA,,,NOC
+168290,227414,533647,Escalated,"Link is still down ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-20 15:36:28",,"2019-05-20 15:36:44",,NA,,,NOC
+168783,228041,534902,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-21 12:45:22",,"2019-05-21 12:45:35",,NA,,,NOC
+168786,228044,534905,Escalated,"outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-21 12:48:08",,"2019-05-21 12:48:13",,NA,,,NOC
+166124,224784,538288,Escalated,"we are getting again site is down , plz take care ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-23 11:05:49",,"2019-05-23 11:06:24",,NA,,,NOC
+170015,229578,538474,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:36:24",,"2019-05-23 12:36:30",,NA,,,NOC
+170018,229583,538485,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:41:08",,"2019-05-23 12:41:17",,NA,,,NOC
+170020,229585,538489,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:43:12",,"2019-05-23 12:43:27",,NA,,,NOC
+170022,229589,538495,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:46:10",,"2019-05-23 12:46:26",,NA,,,NOC
+170024,229591,538503,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:48:12",,"2019-05-23 12:49:08",,NA,,,NOC
+170029,229596,538518,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:55:07",,"2019-05-23 12:56:06",,NA,,,NOC
+170030,229597,538520,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:57:29",,"2019-05-23 12:57:35",,NA,,,NOC
+170033,229600,538524,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 12:58:51",,"2019-05-23 12:58:57",,NA,,,NOC
+170039,229606,538539,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 13:04:45",,"2019-05-23 13:04:52",,NA,,,NOC
+170040,229607,538544,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 13:06:04",,"2019-05-23 13:06:10",,NA,,,NOC
+170045,229612,538555,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-23 13:11:52",,"2019-05-23 13:11:59",,NA,,,NOC
+170062,229630,538597,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-23 13:33:50",,"2019-05-23 13:34:12",,NA,,,NOC
+170064,229632,538599,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 13:35:38",,"2019-05-23 13:35:45",,NA,,,NOC
+170070,229638,538608,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Khulna,"2019-05-23 13:41:07",,"2019-05-23 13:41:14",,NA,,,NOC
+170183,229764,538938,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 16:27:51",,"2019-05-23 16:27:58",,NA,,,NOC
+170184,229765,538940,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 16:29:54",,"2019-05-23 16:30:00",,NA,,,NOC
+170185,229766,538943,Escalated,"Outage at client end ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-23 16:31:26",,"2019-05-23 16:31:32",,NA,,,NOC
+171052,230817,541182,Escalated,"FPSDRB01JR01 to Info-Sarkar_Burugoalini_Union,NA",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-25 06:06:39",,"2019-05-25 06:06:51",,NA,,,NOC
+172930,233146,546967,Escalated,"Outage at client end  ",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-05-28 21:01:47",,"2019-05-28 21:01:50",,NA,,,NOC
+147850,201799,562611,Escalated,"KH_GUTUDIA_UN1HR01 to KH_BHANDARPARA_UN1HR01	",escalated,"Regional Implementation & Operations 3",Khulna,"2019-06-12 14:12:28",,"2019-06-12 14:12:44",,NA,,,NOC
+180145,241911,567891,Escalated,"BCC is getting Shariatpur Zajira MR Down",escalated,"Regional Implementation & Operations 3",Shariatpur,"2019-06-17 11:45:48",,"2019-06-17 11:45:49",,NA,,,NOC
+180176,241947,567988,Escalated,"KHU_X0286 TO KHU_X0245",escalated,"Regional Implementation & Operations 3",Jessore,"2019-06-17 13:18:14",,"2019-06-17 13:18:26",,NA,,,NOC
+180198,241973,568047,Escalated,"PPMTB05 TO BAR_X0189",escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 14:03:52",,"2019-06-17 14:04:08",,NA,,,NOC
+180215,241994,568110,Escalated,n/a,escalated,"Regional Implementation & Operations 3",Khulna,"2019-06-17 14:43:15",,"2019-06-17 14:44:09",,NA,,,NOC
+180223,242002,568128,Escalated,n/a,escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 14:50:15",,"2019-06-17 14:51:12",,NA,,,NOC
+180223,242003,568129,Escalated,n/a,escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 14:50:15",,"2019-06-17 14:51:12",,NA,,,NOC
+180223,242004,568130,Escalated,n/a,escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 14:50:15",,"2019-06-17 14:51:12",,NA,,,NOC
+180223,242005,568131,Escalated,n/a,escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 14:50:15",,"2019-06-17 14:51:12",,NA,,,NOC
+180229,242013,568149,Escalated,SHA0022,escalated,"Regional Implementation & Operations 3",Shariatpur,"2019-06-17 14:57:06",,"2019-06-17 14:57:18",,NA,,,NOC
+180237,242023,568176,Escalated,"MASRP03  TO Info-Sarker Mag-Sreepur SW1",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-06-17 15:12:55",,"2019-06-17 15:13:05",,NA,,,NOC
+180253,242043,568218,Escalated,"BHSDR35 to BHDLT01",escalated,"Regional Implementation & Operations 3",Barisal,"2019-06-17 15:49:06",,"2019-06-17 15:49:18",,NA,,,NOC
+180255,242045,568222,Escalated,"KHSDR04-AGG to KHSDR09",escalated,"Regional Implementation & Operations 3",Khulna,"2019-06-17 15:52:53",,"2019-06-17 15:53:05",,NA,,,NOC
+180256,242046,568232,Escalated,"FPSDR04 to FPSDR12",escalated,"Regional Implementation & Operations 3",Faridpur,"2019-06-17 15:55:41",,"2019-06-17 15:55:51",,NA,,,NOC

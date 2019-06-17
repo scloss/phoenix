@@ -1,0 +1,14 @@
+"Searched Elements :  (event_time_from_temp = 2019-06-09 00:00:00) (event_time_to_temp = 2019-06-16 00:00:00) (element_type_temp = site)"
+"Region Wise","Outage Duration","Element Count","Fault Count",NA,MTTR
+"Gateway Operations",0,0,0,0,0
+"Regional Implementation & Operations 1",259.6800,3034,45,99.9490535832,5.77066667
+"Regional Implementation & Operations 1, Regional Implementation & Operations 2",0,0,0,0,0
+"Regional Implementation & Operations 1, Regional Implementation & Operations 2, Regional Implementation & Operations 3",0,0,0,0,0
+"Regional Implementation & Operations 2",99.8644,1640,24,99.963754210221,4.16101852
+"Regional Implementation & Operations 2, Regional Implementation & Operations 3",0,0,0,0,0
+"Regional Implementation & Operations 3",16.8575,1860,6,99.994605254736,2.80958333
+"Regional Implementation & Operations 3, Regional Implementation & Operations 1",0,0,0,0,0
+"Regional Implementation & Operations 4",22.8425,1614,9,99.991575758246,2.53805556
+"Regional Implementation & Operations 1, Regional Implementation & Operations 4",0,0,0,0,0
+"Regional Implementation & Operations 2, Regional Implementation & Operations 4",0,0,0,0,0
+"Regional Implementation & Operations 3, Regional Implementation & Operations 4",0,0,0,0,0

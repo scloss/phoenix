@@ -1,0 +1,12 @@
+
+#incident_search_table td{
+	padding-top:5px;
+	padding-bottom:5px;
+	border:1px solid grey;
+}
+#section_header{
+	font-size:15px;
+	font-weight:bold;
+	border:1px solid grey;
+	background:#1c2b38;
+}

@@ -1,0 +1,38 @@
+#incident_cart_table{
+	width:100%;
+}
+#incident_cart_table th{
+	border:1px solid grey;
+	text-align:center;
+	font-size:10px;
+}
+#incident_cart_table td{
+	border:1px solid grey;
+	text-align:center;
+	font-size:11px;
+	color:#fff;
+}
+#incident_cart_table a{
+	color:#fff;
+}
+
+#incident_cart_table_merge{
+	width:100%;
+}
+#incident_cart_table_merge th{
+	border:1px solid grey;
+	text-align:center;
+	font-size:17px;
+	min-height:60px !important;
+	background:#102238;
+}
+#incident_cart_table_merge td{
+	border:1px solid grey;
+	text-align:center;
+	font-size:17px;
+	color:#fff;
+	min-height:40px !important;
+}
+#incident_cart_table_merge a{
+	color:#fff;
+}

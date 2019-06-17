@@ -1,0 +1,7 @@
+td{
+	width:500px;
+	cursor:pointer;
+	border: 1px solid grey !important;
+	padding:5px;
+	background: rgba(44, 62, 80,0.5);
+}

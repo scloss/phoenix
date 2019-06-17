@@ -1,0 +1,45 @@
+body {
+    padding: 100px;
+    font-weight: 300;
+    padding: 100px;
+    padding-bottom: 100px;
+    background-color: #154265 20%;
+
+    background-image: radial-gradient(farthest-side ellipse at 10% 0,  #154265 20%,  #7392c2);
+    background-image: -webkit-radial-gradient(10% 0,  farthest-side ellipse,  #154265 20%,  #7392c2);
+    background-image: -moz-radial-gradient(10% 0,  farthest-side ellipse,  #154265 20%,  #7392c2);
+
+
+    background-attachment: fixed,  fixed;
+
+    background: linear-gradient(228deg, #2292b8, #1a435f, #456b93, #17b6cd);
+background-size: 800% 800%;
+
+-webkit-animation: AnimationName 35s ease infinite;
+-moz-animation: AnimationName 35s ease infinite;
+-o-animation: AnimationName 35s ease infinite;
+animation: AnimationName 35s ease infinite;
+
+
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 92%}
+    50%{background-position:100% 9%}
+    100%{background-position:0% 92%}
+}
